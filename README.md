@@ -6,9 +6,9 @@
 
 - 🚀 &nbsp; Escopo do Curso:
 
-     Análise de dados utilizando Python (Pandas, NumPy) & MySQL;
+             Análise de dados utilizando Python (Pandas, NumPy) & MySQL;
      
-     Visualização dos dados (Tableau & Seaborn);
+             Visualização dos dados (Tableau & Seaborn);
      
      Construir, Avaliar e Implantar Modelos e Pipelines de Machine Learning (Scikit-Learn);
      
