@@ -1,5 +1,7 @@
 <b> :woman: Sobre mim </b>:
 
+- :woman: Engenheira Civil apaixonada por números e tecnologia;
+
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções para análise de dados;
 
 - 🎓 &nbsp; Estudando Data Analytics na <a href="https://www.ironhack.com/en">Ironhack</a>;
