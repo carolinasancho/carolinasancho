@@ -10,12 +10,12 @@
      
              Visualização dos dados (Tableau & Seaborn);
      
-     Construir, Avaliar e Implantar Modelos e Pipelines de Machine Learning (Scikit-Learn);
+             Construção, Avaliação e Implantação de Modelos e Pipelines de Machine Learning (Scikit-Learn);
      
-- Estatística Inferencial em Python & Business Intelligence;;
-- Data Wrangling, Data Cleaning, API & Web Scraping.
-* Technologies: Python, PostgreSQL, Pandas, Matplotlib, Seaborn, Scikit-Learn, Machine Learning, Git, Tableau.
-* Methodologies & Techniques: Data Cleaning, Data Manipulation, Data Mining (APIs, Web Scraping), Data Visualization, Data Pipelines, Descriptive Statistics, Business Intelligence, Supervised and Unsupervised Machine Learning
+             Estatística Inferencial em Python & Business Intelligence;;
+             Data Wrangling, Data Cleaning, API & Web Scraping.
+             Technologies: Python, PostgreSQL, Pandas, Matplotlib, Seaborn, Scikit-Learn, Machine Learning, Git, Tableau.
+             Methodologies & Techniques: Data Cleaning, Data Manipulation, Data Mining (APIs, Web Scraping), Data Visualization, Data Pipelines, Descriptive                        Statistics, Business Intelligence, Supervised and Unsupervised Machine Learning
 
 - 💼 &nbsp; Meu principal campo de estudos é **Análise de dados
 
