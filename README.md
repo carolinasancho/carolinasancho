@@ -1,9 +1,9 @@
 <b> :woman: Sobre mim </b>:
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções para análise de dados;
-- 
+
 - 🎓 &nbsp; Estudando Data Analytics na <a href="https://www.ironhack.com/en">Ironhack</a>;
-- 
+
 - 🚀 &nbsp; Escopo do Curso:
 - Análise de dados utilizando Python (Pandas, NumPy) & MySQL;
 - Visualização dos dados (Tableau & Seaborn);
