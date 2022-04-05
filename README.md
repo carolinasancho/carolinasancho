@@ -1,6 +1,6 @@
 <b> :woman: Sobre mim </b>:
 
-- :woman: Engenheira Civil apaixonada por números e tecnologia;
+- :woman: Engenheira Civil apaixonada por números e inovação;
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções para análise de dados;
 
