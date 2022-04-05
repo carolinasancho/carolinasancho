@@ -12,7 +12,8 @@
              Estatística Inferencial em Python & Business Intelligence;;
              Data Wrangling, Data Cleaning, API & Web Scraping.
              Technologies: Python, PostgreSQL, Pandas, Matplotlib, Seaborn, Scikit-Learn, Machine Learning, Git, Tableau.
-             Methodologies & Techniques: Data Cleaning, Data Manipulation, Data Mining (APIs, Web Scraping), Data Visualization, Data Pipelines, Descriptive                        Statistics, Business Intelligence, Supervised and Unsupervised Machine Learning
+             Methodologies & Techniques: Data Cleaning, Data Manipulation, Data Mining (APIs, Web Scraping), Data Visualization, Data Pipelines, 
+             Descriptive Statistics, Business Intelligence, Supervised and Unsupervised Machine Learning.
 
 - 💼 &nbsp; Meu principal campo de estudos é **Análise de dados
 
