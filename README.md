@@ -5,9 +5,9 @@
 - 🎓 &nbsp; Estudando Data Analytics na <a href="https://www.ironhack.com/en">Ironhack</a>;
 
 - 🚀 &nbsp; Escopo do Curso:
-- Análise de dados utilizando Python (Pandas, NumPy) & MySQL;
-- Visualização dos dados (Tableau & Seaborn);
-- Construir, Avaliar e Implantar Modelos e Pipelines de Machine Learning (Scikit-Learn);
+     Análise de dados utilizando Python (Pandas, NumPy) & MySQL;
+     Visualização dos dados (Tableau & Seaborn);
+     Construir, Avaliar e Implantar Modelos e Pipelines de Machine Learning (Scikit-Learn);
 - Estatística Inferencial em Python & Business Intelligence;;
 - Data Wrangling, Data Cleaning, API & Web Scraping.
 * Technologies: Python, PostgreSQL, Pandas, Matplotlib, Seaborn, Scikit-Learn, Machine Learning, Git, Tableau.
