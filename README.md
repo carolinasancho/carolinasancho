@@ -20,7 +20,7 @@
 - 💼 &nbsp; Meu principal campo de estudos é **Análise de dados
 
 - 🌱 &nbsp; Aprendendo mais sobre **Visualização de dados e estatística**.
-- 
+
 
 <b> 🚀 **Linguagens e Ferramentas</b>:**
 
