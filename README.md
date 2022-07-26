@@ -19,7 +19,7 @@
 
 - 💼 &nbsp; Meu principal campo de estudos é **Análise e ciência de dados**
 
-- 🌱 &nbsp; Aprendendo mais sobre **Ciência dados e machine learning**.
+- 🌱 &nbsp; Aprendendo mais sobre **Ciência de dados e machine learning**.
 
 
 <b> 🚀 **Linguagens e Ferramentas</b>:**
