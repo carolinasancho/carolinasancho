@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções para análise de dados;
 
-- 🎓 &nbsp; Recém formado no curso de Data Analytics na <a href="https://www.ironhack.com/en">Ironhack</a>;
+- 🎓 &nbsp; Recém formada no curso de Data Analytics na <a href="https://www.ironhack.com/en">Ironhack</a>;
 
 - 🚀 &nbsp; Escopo do Curso:
 
@@ -19,7 +19,7 @@
 
 - 💼 &nbsp; Meu principal campo de estudos é **Análise e ciência de dados**
 
-- 🌱 &nbsp; Aprendendo mais sobre **Ciência de dados e machine learning**.
+- 🌱 &nbsp; Aprendendo mais sobre **Ciência de dados, engenharia e arquitetura de dados**.
 
 
 <b> 🚀 **Linguagens e Ferramentas</b>:**
