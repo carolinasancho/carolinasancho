@@ -17,7 +17,7 @@
              Methodologies & Techniques: Data Cleaning, Data Manipulation, Data Mining (APIs, Web Scraping), Data Visualization, Data Pipelines, 
              Descriptive Statistics, Business Intelligence, Supervised and Unsupervised Machine Learning.
 
-- 💼 &nbsp; Meu principal campo de estudos é **Análise e ciência de dados**
+- 💼 &nbsp; Meu principal campo de estudos é **Análise de dados**
 
 - 🌱 &nbsp; Aprendendo mais sobre **Ciência de dados, engenharia e arquitetura de dados**.
 
