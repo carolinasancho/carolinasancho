@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções para análise de dados;
 
-- 🎓 &nbsp; Recém formada no curso de Data Analytics na <a href="https://www.ironhack.com/en">Ironhack</a>;
+- 🎓 &nbsp; Formada no curso de Data Analytics na <a href="https://www.ironhack.com/en">Ironhack</a> trabalhando como Analista de Dados e Mercado na Geofusion <3;
 
 - 🚀 &nbsp; Escopo do Curso:
 
